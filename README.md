@@ -1,16 +1,32 @@
-## Hi there 👋
+# Welcome to my profile! 👋
+## About me! 📋 
 
-<!--
-**Tristar-ALT/Tristar-ALT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- [x] My name is Tristan Shockman.
+- [x] I am currently enrolled at Epic Campus.
+- [x] And I love computer Science!
 
-Here are some ideas to get you started:
+## What are some coding languages that I know? 📖
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am proficient in Python, and currently trying to learn Java, HTML5, Javascript, and CSS! ✔️
+
+## What can you find here? 🔍
+
+Just about every coding project I've ever done! ✨
+
+You can check out some of my latest EPIC Campus coursework [here,](https://github.com/Tristar-1120/lab-12-EPIC-Campus) and [here!](https://github.com/Tristar-1120/lab-10-EPIC-Campus) 🎓
+
+You can also try out my latest WIP [here!](https://tristar-1120.github.io/gunslinger) 🎯
+
+Main Account: [Tristar1120](https://github.com/Tristar-1120)
+
+
+
+
+
+
+
+
+
+
+
+
